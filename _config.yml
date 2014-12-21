@@ -45,8 +45,8 @@ email: visualstudiogeeks@gmail.com
 # Members information. Shown on About page.
 members:
   - name: Utkarsh Shigihalli
-    position: Geek
-    text: 
+    position: 
+    text: Microsoft MVP | Microsoft ALM Ranger
     img: utkarsh.png
     social:
       #- title: Private Blog
@@ -54,8 +54,8 @@ members:
       - title: twitter
         url: http://twitter.com/onlyutkarsh
   - name: Tarun Arora
-    position: Geek
-    text: 
+    position: 
+    text: Microsoft MVP | Microsoft ALM Ranger
     img: tarun.jpeg
     social:
       #- title: envelope #use for email address
