@@ -53,7 +53,7 @@ members:
   - name: Utkarsh Shigihalli
     position: Geek
     text: 
-    img: team01.jpg
+    img: utkarsh.png
     social:
       #- title: Private Blog
       #  url: 
@@ -62,7 +62,7 @@ members:
   - name: Tarun Arora
     position: Geek
     text: 
-    img: team02.jpg
+    img: tarun.jpeg
     social:
       #- title: envelope #use for email address
       #  url: mailto:name@domain.com
