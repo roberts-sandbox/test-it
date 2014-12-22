@@ -46,7 +46,7 @@ members:
   - name: Utkarsh Shigihalli
     position: 
     text: Microsoft MVP | Microsoft ALM Ranger
-    img: utkarsh.png
+    img: utkarsh_240x240.png
     social:
       #- title: Private Blog
       #  url: 
@@ -55,7 +55,7 @@ members:
   - name: Tarun Arora
     position: 
     text: Microsoft MVP | Microsoft ALM Ranger
-    img: tarun.jpeg
+    img: tarun_240x240.jpeg
     social:
       #- title: envelope #use for email address
       #  url: mailto:name@domain.com
