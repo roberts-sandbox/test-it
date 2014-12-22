@@ -1,3 +1,17 @@
+---
+layout: post          #important: don't change this
+title: "Administer Visual Studio Tags using Visual Studio Extension - TagAdmin"
+date: 2014-12-22 00:25:00
+author: Tarun
+categories: TagAdmin
+- blog                #important: leave this here
+- personal
+
+img:        #place image (850x450) with this name in /assets/img/blog/
+thumb: thumb.jpg    #place thumbnail (70x70) with this name in /assets/img/blog/thumbs/
+---
+Manage Work Item tags from right with in Visual Studio using the TagAdmin extension. Watch this 2 minute video to get a headstart...
+<!--more-->
 Tagging as a feature has been a hit in the Team Foundation Server / Visual Studio Online family of tools.
 
 Work Item Tags allow you to associate identifiers to work items to group search and filter work items easily. Tags can be added directly from the work item form or using the excel plug in. Adding tags is so easy that they start to grow in no time. While that's a good thing you may not want people to create multiple tags that refer to the same thing. For example, BackOffice and Administration may have been created by users to refer to the same idea. However, these are now 2 separate entities, you will not be able to bring back work items tagged to BackOffice if searching exclusively for work items tagged to Administration. It’s also very easy to end up with tags that are misspelled.
