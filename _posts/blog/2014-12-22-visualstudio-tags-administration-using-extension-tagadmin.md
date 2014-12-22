@@ -22,6 +22,7 @@ We are very excited to announce the release of our latest Visual Studio Extensio
       1. View Active Tags in a team project
       2. Rename Tags
       3. Delete Tags 
+      4. View work items linked to Tags
 
 Watch this 2 minute video of what the extension allows you to do today... 
 
