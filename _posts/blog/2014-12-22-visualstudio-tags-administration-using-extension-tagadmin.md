@@ -17,18 +17,23 @@ Work Item Tags allow you to associate identifiers to work items to group search 
 
 So, the problem as it stands out today is... How do you manage tags in projects and project collections? 
 
-We are very excited to announce the release of our latest Visual Studio Extension "TagAdmin"... The extension uses the all new REST APIs for retrieving and updating the data in TFS/VSO. The extension makes use of Integrated authentication to ensure all communication between the client & server is through an authorized token flow. The latest version of the extension can be downloaded from the Visual Studio Extension Gallery here. The first version of the extension allows you to,
+We are very excited to announce the release of our latest Visual Studio Extension "TagAdmin"... The extension uses the all new REST APIs for retrieving and updating the data in TFS/VSO. The extension makes use of Integrated authentication to ensure all communication between the client & server is through an authorized token flow. The latest version of the extension can be downloaded from the Visual Studio Extension Gallery [here](https://visualstudiogallery.msdn.microsoft.com/057740ff-86be-4a44-b2bb-7e6d68b75455). 
 
-1. View Active tags 
-2. Rename tag
-3. Delete tags 
-4. View work items linked to tags
-5. Supports both VSO and TFS 
-6. Uses Integrated Authentication
+The first version of the extension allows you to,
+
+    1.	View Active tags 
+	2.	Rename tag
+	3.	Delete tags 
+	4.	View work items linked to tags
+	5.	Supports both VSO and TFS 
+	6.	Uses Integrated Authentication
+
 
 Watch this 2 minute video of what the extension allows you to do today... 
+[![](http://i.imgur.com/yqtKgjk.png)](https://www.youtube.com/watch?v=J4g_VJlVaxY&feature=youtu.be)
 
-If you like our work, we would love for you to spread the word for us... 
-"Manage your workitem tags right from within #VisualStudio using #TagAdmin #VisualStudioExtension http://a.com developed by @onlyutkarsh @arora_tarun" 
+If you like our work, we would love for you to spread the word for us by tweeting via button below... 
 
-We are still hard at work, do you have any ideas on how we can improve the extension? We would love to hear from you... Please drop us a line or better leave your suggestion on our user voice website... 
+<a href="http://ctt.ec/dZDaj"><img src="http://clicktotweet.com/img/tweet-graphic-4.png" alt="Tweet: Manage your workitem tags inside #VisualStudio using #TagAdmin #extension http://ctt.ec/dZDaj+ developed by @onlyutkarsh @arora_tarun" /></a>
+
+We are still hard at work, do you have any ideas on how we can improve the extension? We would love to hear from you...Mail us at `visualstudiogeeks (at) gmail.com`
