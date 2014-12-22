@@ -1,6 +1,6 @@
 ---
 layout: post          #important: don't change this
-title: "Administer Visual Studio Tags using Visual Studio Extension - TagAdmin"
+title: "Administer Visual Studio Tags using TagAdmin Visual Studio extension"
 date: 2014-12-22 00:25:00
 author: Tarun
 categories:
