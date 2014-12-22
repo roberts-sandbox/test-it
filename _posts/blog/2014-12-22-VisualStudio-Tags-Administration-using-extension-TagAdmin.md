@@ -20,9 +20,9 @@ So, the problem as it stands out today is... How do you manage tags in projects 
 
 We are very excited to announce the release of our latest Visual Studio Extension "TagAdmin"... The extension uses the all new REST APIs for retrieving and updating the data in TFS/VSO. The extension makes use of Integrated authentication to ensure all communication between the client & server is through an authorized token flow. The latest version of the extension can be downloaded from the Visual Studio Extension Gallery here. The first version of the extension allows you to,
 
-1.  View Active Tags in a team project
-2.  Rename Tags
-3.  Delete Tags 
+   1. View Active Tags in a team project
+   2. Rename Tags
+   3. Delete Tags 
 
 Watch this 2 minute video of what the extension allows you to do today... 
 
