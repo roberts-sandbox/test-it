@@ -3,12 +3,12 @@ layout: post          #important: don't change this
 title: "Administer Visual Studio Tags using Visual Studio Extension - TagAdmin"
 date: 2014-12-22 00:25:00
 author: Tarun
-categories: TagAdmin
+categories:
 - blog                #important: leave this here
-- personal
-
-img:        #place image (850x450) with this name in /assets/img/blog/
-thumb: thumb.jpg    #place thumbnail (70x70) with this name in /assets/img/blog/thumbs/
+- TagAdmin
+- ...
+img: post01.jpg       #place image (850x450) with this name in /assets/img/blog/
+thumb: thumb01.jpg    #place thumbnail (70x70) with this name in /assets/img/blog/thumbs/
 ---
 Manage Work Item tags from right with in Visual Studio using the TagAdmin extension. Watch this 2 minute video to get a headstart...
 <!--more-->
