@@ -34,7 +34,6 @@ social:
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
   - lines: 
-    - Visual Studio IDE,
     - United Kingdom.
 email: visualstudiogeeks@gmail.com
 #tel: +34 8493-4893
@@ -75,7 +74,7 @@ members:
 #    img: client04.png
     
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "We are extremely passionate geeks with similar intersts - always collaborating and discussing over a coffee. This is our site, showcasing our work together."
+about: "Friends collaborating and discussing technology over a coffee. This is our site, showcasing our work together."
 
 # Testimonial content. Shown on Home and About page. 
 #testimonial:
