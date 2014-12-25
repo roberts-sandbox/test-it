@@ -24,12 +24,12 @@ var configManager = GetService(typeof (SVsConfigurationManagerDlg)) as IVsConfig
 
 Once you get the instance of `IVsConfigurationManagerDlg` interface, you will call `ShowConfigurationManagerDlg` method to show configuration manager dialog as below.
 
-~~~cs
+{% highlight cs %}
 if (configManager != null)
 {
     configManager.ShowConfigurationManagerDlg();
 }
-~~~
+{% endhighlight %}
 
 ### Showing Configuration Manager window only when project is loaded ###
 
