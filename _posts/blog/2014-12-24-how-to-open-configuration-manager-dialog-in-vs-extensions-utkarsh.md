@@ -14,7 +14,7 @@ In this post we will see how to open Configuration Manager window of Visual Stud
 
 
 ![Alt text](/assets/img/blog/utkarsh/vs_config_manager.png "Optional title")
-
+<!--more-->
 Visual Studio provides [IVsConfigurationManagerDlg](http://msdn.microsoft.com/en-us/library/vstudio/microsoft.visualstudio.shell.interop.ivsconfigurationmanagerdlg.aspx) interface which has a single method called `ShowConfigurationManagerDlg`. The method has no parameters and it is as easy as calling a `MessageBox.Show()` in windows forms. 
 
 So to use this method, you need to first get the service instance using `GetService(...)` method from `Package` class as below.
