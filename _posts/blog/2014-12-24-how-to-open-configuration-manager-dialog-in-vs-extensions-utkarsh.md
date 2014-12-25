@@ -1,7 +1,7 @@
 ---
 layout: post          #important: don't change this
 title: "How to open Configuration Manager in Visual Studio extensions"
-date: 2014-11-12 10:26:00
+date: 2014-24-12 10:26:00
 author: Utkarsh Shigihalli
 categories:
 - blog                #important: leave this here
