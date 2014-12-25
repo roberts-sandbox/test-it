@@ -18,18 +18,18 @@ Visual Studio provides [IVsConfigurationManagerDlg](http://msdn.microsoft.com/en
 
 So to use this method, you need to first get the service instance using `GetService(...)` method from `Package` class as below.
 
-{% highlight cs %}
+```csharp
 var configManager = GetService(typeof (SVsConfigurationManagerDlg)) as IVsConfigurationManagerDlg;
-{% endhighlight %}
+```
 
 Once you get the instance of `IVsConfigurationManagerDlg` interface, you will call `ShowConfigurationManagerDlg` method to show configuration manager dialog as below.
 
-{% highlight cs %}
+```csharp
 if (cconfigManager != null)
 {
     configManager.ShowConfigurationManagerDlg();
 }
-{% endhighlight %}
+```
 
 ### Showing Configuration Manager window only when project is loaded ###
 
