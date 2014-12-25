@@ -31,11 +31,13 @@ if (cconfigManager != null)
 }
 ```
 
+
 ```ruby
 def hello
-  puts "hi"
+  puts "hi\n"
 end
 ```
+
 
 ### Showing Configuration Manager window only when project is loaded ###
 
