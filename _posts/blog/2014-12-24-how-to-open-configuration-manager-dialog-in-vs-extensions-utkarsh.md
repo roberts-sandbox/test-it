@@ -31,6 +31,12 @@ if (cconfigManager != null)
 }
 ```
 
+```ruby
+def hello
+  puts "hi"
+end
+```
+
 ### Showing Configuration Manager window only when project is loaded ###
 
 With the above code, I can open configuration manager window even when no project is loaded in Visual Studio, which basically opens up the configuration manager window without any configuration. In most cases that is not intended. 
